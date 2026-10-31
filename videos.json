@@ -968,9 +968,10 @@
   "status": "uncertain",
   "note": "AI 생성 격투 영상(실제 경기 아님) / 불확실: 키워드 약함/문맥 기반",
   "category": [
-   "미분류"
+   "그래플링"
   ],
-  "thumb": "thumbs/f78e263693.webp"
+  "thumb": "thumbs/f78e263693.webp",
+  "category_src": "transcript"
  },
  {
   "id": "e520db371b",
@@ -1118,9 +1119,10 @@
   "status": "uncertain",
   "note": "AI 생성 격투 영상(실제 경기 아님) / 불확실: 키워드 약함/문맥 기반",
   "category": [
-   "미분류"
+   "타격"
   ],
-  "thumb": "thumbs/f2097fad78.webp"
+  "thumb": "thumbs/f2097fad78.webp",
+  "category_src": "transcript"
  },
  {
   "id": "9c1fac1cf5",
@@ -1355,7 +1357,7 @@
   "status": "keep",
   "note": "",
   "category": [
-   "미분류"
+   "타격"
   ]
  },
  {
