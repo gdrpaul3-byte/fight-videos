@@ -1,5 +1,48 @@
 [
  {
+  "id": "a320b8ee74",
+  "url": "https://www.youtube.com/watch?v=xYehA2mXojk",
+  "title": "볼카노프스키 vs 러피 UFC 스파링 분석",
+  "author": "George Hardwick",
+  "source": "YouTube",
+  "shared_date": "2026-11-25",
+  "sport_tags": [
+   "MMA",
+   "킥복싱"
+  ],
+  "fighter_tags": [
+   "알렉산더 볼카노프스키",
+   "Ruffy"
+  ],
+  "status": "keep",
+  "note": "",
+  "category": [
+   "타격"
+  ]
+ },
+ {
+  "id": "84f8fa3505",
+  "url": "https://www.instagram.com/reel/DgIGICixsVZ/",
+  "title": "스윕 셋업: 프론트킥 페인트 후 스윕",
+  "author": "Horacio \"The Punisher\" Gutierrez",
+  "source": "Instagram",
+  "shared_date": "2026-11-25",
+  "sport_tags": [
+   "킥복싱",
+   "무에타이"
+  ],
+  "fighter_tags": [
+   "Horacio Gutierrez"
+  ],
+  "status": "keep",
+  "note": "",
+  "category": [
+   "타격"
+  ],
+  "thumb": "thumbs/84f8fa3505.webp",
+  "category_src": "manual"
+ },
+ {
   "id": "37fcb0c04a",
   "url": "https://www.instagram.com/reel/DgFelogJjDk/",
   "title": "스크램블 분석: 바예호스 vs 스털링, 볼카노프스키 시연",
